@@ -1,0 +1,13 @@
+#Keys
+keys.examplemod.category=Example Mod
+keys.examplemod.charge=Charge
+keys.examplemod.release=Release
+
+# Creative Tabs
+itemGroup.examplemod=Example Mod
+
+# Items
+item.examplemod:basicItem.name=Basic Item
+
+#Blocks
+tile.examplemod:basicBlock.name=Basic Block
