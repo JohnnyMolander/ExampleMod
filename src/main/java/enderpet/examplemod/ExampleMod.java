@@ -51,5 +51,6 @@ public class ExampleMod
 	@EventHandler
 	public void postInit(FMLPostInitializationEvent event)
 	{
+		// PostInit
 	}
 }
